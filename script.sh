@@ -22,19 +22,19 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY Ryan Ru ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
+<h4><font color='cyan'>Ngal Ko Pl Cx Tl🫶🏻
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+useradd "ryan" --shell=/bin/false -M
+echo "ryan:ryan" | chpasswd
 
 echo ""
 
